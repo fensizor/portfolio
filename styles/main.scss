@@ -1,0 +1,21 @@
+@import "./variables";
+@import "./fonts";
+@import "./nav";
+@import "./mainsection";
+@import "./about";
+@import "./about";
+@import "./contacts";
+@import "./projects";
+
+
+html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
